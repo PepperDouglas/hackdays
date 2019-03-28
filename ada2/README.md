@@ -3,20 +3,20 @@
 Mobile first application,
 to evaluate your financial goals.
 
-1. Income
+Income
   - Salary
   - Dividends
 
-2. Expense
+Expense
   - Unnecessary
   - Food
   - Rent
   - Savings
 
-3. See Statistics
+See Statistics
   - Various statistics
   - Rating (by formula)
 
-4. Settings
+Settings
   - How much % of income to Savings (goal)
   - Max (goal) of expenses on Unnecessary
