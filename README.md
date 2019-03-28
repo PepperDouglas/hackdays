@@ -1,6 +1,7 @@
-# hackdays
+hackdays
 Repo for single-day projects
 
+#Opt ADA 2
 Mobile first application,
 to evaluate your financial goals.
 
