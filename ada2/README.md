@@ -1,22 +1,22 @@
-#Opt ADA 2
+<h1>Opt ADA 2</h1>
 
 Mobile first application,
 to evaluate your financial goals.
 
-Income
+1. Income
   - Salary
   - Dividends
 
-Expense
+2. Expense
   - Unnecessary
   - Food
   - Rent
   - Savings
 
-See Statistics
+3. See Statistics
   - Various statistics
   - Rating (by formula)
 
-Settings
+4. Settings
   - How much % of income to Savings (goal)
   - Max (goal) of expenses on Unnecessary
