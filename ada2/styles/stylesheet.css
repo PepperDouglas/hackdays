@@ -1,0 +1,47 @@
+button {
+  background-color: bisque;
+  margin: 2px 0px 0px 4px;
+  min-width: 100px;
+  min-height: 28px;
+}
+
+.done {
+  background-color: rgb(157, 205, 99);
+}
+
+button .adder{
+  max-width: 10px;
+}
+
+body {
+  background-color: rgb(252, 248, 242);
+  text-align: center;
+}
+
+.menu-income{
+  text-align: center;
+  border: 2px rgb(41, 41, 41);
+}
+
+.menu-expense{
+  text-align: center;
+
+  border: 2px rgb(41, 41, 41);
+}
+
+.menu-stats{
+  text-align: center;
+
+  border: 2px rgb(41, 41, 41);
+}
+
+.menu-settings{
+  text-align: center;
+  border: 2px rgb(41, 41, 41);
+}
+
+
+
+
+
+
