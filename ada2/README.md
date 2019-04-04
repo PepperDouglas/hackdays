@@ -2,6 +2,8 @@
 
 Mobile first application,
 to evaluate your financial goals.
+Button based and auto-closing of input for fast, on the go
+input made for single updates.
 
 Income
   - Salary
